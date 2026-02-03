@@ -1,0 +1,19 @@
+# Config with secrets
+config.yaml
+.env
+.claude
+
+# Build artifacts
+cnb-assistant
+*.exe
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

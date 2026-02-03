@@ -1,0 +1,27 @@
+# CNB 助手配置
+# 复制此文件为 config.yaml 并填入你的凭据
+
+# LLM 配置（OpenAI 兼容 API）
+llm:
+  # LLM 提供商的 API 密钥
+  # 也可通过 OPENAI_API_KEY 环境变量设置
+  api_key: "sk-..."
+
+  # API 的基础 URL
+  # 示例：
+  #   OpenAI: https://api.openai.com/v1
+  #   DeepSeek: https://api.deepseek.com
+  #   通义千问: https://dashscope.aliyuncs.com/compatible-mode/v1
+  base_url: "https://api.openai.com/v1"
+
+  # 要使用的模型
+  # 示例: gpt-4, deepseek-chat, qwen-turbo, glm-4
+  model: "gpt-4"
+
+# CNB 平台配置
+cnb:
+  # 你的 CNB 访问令牌
+  # 获取方式: https://cnb.cool → 设置 → 访问令牌
+  # 需要权限: repo-code:r（以及其他根据需要添加的权限）
+  # 也可通过 CNB_TOKEN 环境变量设置
+  token: "your-cnb-token-here"
