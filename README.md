@@ -319,6 +319,6 @@ learn-skills/
 
 ## 后记
 
-想了半天说明写什么，忽然脑海冒出一句：`🙇 与其 awesome skills，不如 learn a skill`。
+想了半天如何写简介，忽然脑海冒出一句：`🙇 与其 awesome skills，不如 learn a skill`。
 
 当今AI领域，各种概念更迭不休，保持学习的精神，抛却表面的焦虑，学习一个具体的知识，就能让自己变得充实且快乐。
